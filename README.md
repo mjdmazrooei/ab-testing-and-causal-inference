@@ -1,4 +1,4 @@
-# A/B Testing & Causal Inference (End-to-End, GitHub-Ready)
+# A/B Testing & Causal Inference 
 
 A portfolio-grade project that demonstrates **experimental design**, **robust A/B analysis**, and **causal inference for observational data** — with reproducible pipelines, reports, and tests.
 
